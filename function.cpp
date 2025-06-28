@@ -16,7 +16,7 @@
 using namespace std;
 // tyoe function_name(arguments);
 int sum(int,int);
-void gf(void);
+void g(void);
 
 
 int main()
