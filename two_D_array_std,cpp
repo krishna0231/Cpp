@@ -1,0 +1,17 @@
+#include <iostream>
+#include <array>
+using namespace std;
+
+int main()
+{
+    // Declare and initialize a 3*4 ,matrix using std::array
+    std::array<std::array<int ,4>, 3> matrix = {{
+        {1,2,3,4},
+        {5,6,7,8},
+        {9,10,11,12};
+    }};
+    // priting the matrix
+    cout << "Matrix elements are:\n";
+    // using nested for loop
+    
+}

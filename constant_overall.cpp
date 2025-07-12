@@ -14,7 +14,7 @@ void analyze(const BigObject &obj) {
 
 int main() {
     BigObject big;
-    const BigObject constBig;
+    const BigObject onstBig;
     
     // All these calls are valid:
     analyze(big);        // Non-const object
